@@ -32,3 +32,26 @@ a:hover {
     margin: 10px;
     list-style-type: circle;
 }
+
+
+/*--------------------------------------------*/
+
+.recipe-content {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.recipe-image {
+    border: 2px solid rgb(131, 112, 60);
+    border-radius: 15px;
+}
+
+.recipe-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    border: 2px solid rgb(131, 112, 60);
+    border-radius: 15px;
+    padding: 10px 20px;
+}
+

@@ -5,6 +5,10 @@
     margin: 0;
 }
 
+a:hover {
+    color: red;
+}
+
 #homepage-header {
     text-align: center;
     font-size: 2vw;

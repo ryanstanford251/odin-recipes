@@ -19,6 +19,11 @@
     font-size: 2vw;
 }
 
+#homepage-main img {
+    height: auto;
+    width: 40%;
+}
+
 .recipe-list {
     border: 2px solid rgb(131, 112, 60);
     border-radius: 15px;

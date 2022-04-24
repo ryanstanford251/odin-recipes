@@ -59,6 +59,8 @@ a:hover {
     border: 2px solid rgb(131, 112, 60);
     border-radius: 15px;
     padding: 10px 20px;
+    overflow-wrap: normal;
+    max-width: 30%;
 }
 
 .recipe-header {

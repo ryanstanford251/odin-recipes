@@ -56,3 +56,20 @@ a:hover {
     padding: 10px 20px;
 }
 
+.recipe-header {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: center;
+}
+
+.recipe-header h1 {
+    font-size: 3vw;
+}
+
+
+.recipe-header img {
+    height: auto;
+    width: 10vw;
+}
+

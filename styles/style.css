@@ -43,13 +43,14 @@ a:hover {
 
 .recipe-content {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
 }
 
 .recipe-image {
     border: 2px solid rgb(131, 112, 60);
     border-radius: 15px;
     width: 30%;
+    margin-right: 50px;
 }
 
 .recipe-info {
